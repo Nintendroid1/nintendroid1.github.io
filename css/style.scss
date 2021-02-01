@@ -2,7 +2,3 @@
 ---
 
 @import "{{ site.theme }}";
-
-.wrapper {
-  width: calc(100% - #{$right-sidebar-width-narrow});
-}
